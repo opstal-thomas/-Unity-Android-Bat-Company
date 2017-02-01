@@ -1,0 +1,37 @@
+# =============== #
+# Unity generated #
+# =============== #
+BatCave/[Ll]ibrary/
+BatCave/[Tt]emp/
+BatCave/[Oo]bj/
+BatCave/[Bb]uild/
+BatCave/[Bb]uilds/
+BatCave/Assets/AssetStoreTools*
+sysinfo.txt
+*.stackdump
+ 
+# ============================================= #
+# Visual Studio / MonoDevelop / Rider generated #
+# ============================================= #
+[Ee]xported[Oo]bj/
+.vs/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+/.idea*/
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini

@@ -1,0 +1,10 @@
+lastUpgrade=00934
+proj.pluginVersion=0.9.34
+proj.AppId=284816015195
+and.BundleId=com.laserbeamstudio.BatCompany
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSConstant
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e284816015195%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.laserbeamstudio.BatCompany%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_bun_venit_20_points%22%3eCgkI2_7tgqUIEAIQAQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_chicken_wings_100_points%22%3eCgkI2_7tgqUIEAIQAw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_buffalo_wings_120_points%22%3eCgkI2_7tgqUIEAIQBA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_wingin_it_160_points%22%3eCgkI2_7tgqUIEAIQBQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_ride_the_wings_of_pestilance_200_points%22%3eCgkI2_7tgqUIEAIQBg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_excellent_100_points%22%3eCgkI2_7tgqUIEAIQDA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_good_50_points%22%3eCgkI2_7tgqUIEAIQDQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_endless_mode%22%3eCgkI2_7tgqUIEAIQAg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22event_amount_of_endless_games_started%22%3eCgkI2_7tgqUIEAIQBw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22event_score_endless_mode%22%3eCgkI2_7tgqUIEAIQCA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22event_amount_of_flies_gathered_endless%22%3eCgkI2_7tgqUIEAIQCQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22event_game_opened%22%3eCgkI2_7tgqUIEAIQCg%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=
+proj.requireGPlus=false
+android.SetupDone=true
